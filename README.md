@@ -56,7 +56,7 @@ This work is adapted from the RISC-V Instruction Set Manual, available at
 [https://riscv.org/specifications/][RV] and licensed
 under the Creative Commons [CC-BY-4.0][CC] license.
 
-[pdf]: https://github.com/CSER-UFT/RISC-V_card/releases/tag/latest/riscv-card.pdf
+[pdf]: https://github.com/CSER-UFT/RISC-V_card/releases/download/latest/riscv-card.pdf
 [RV]: https://riscv.org/specifications "RISC-V spec"
 [CC]: https://creativecommons.org/licenses/by/4.0/ "CC-BY-4.0"
 [cs61c]: https://cs61c.org/
