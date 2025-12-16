@@ -28,18 +28,6 @@ Other information from the more official reference cards not specific to the
 ISA, like the stack/heap memory layout, IEEE 754 floating-point layout, and size
 prefixes, have been omitted.
 
-## Why?
-
-In RISC tradition, the assembly reference for [MIPS][mips-green-sheet]
-and [RISC-V][riscv-card] fits onto a single double-sided 'Green Sheet'.
-
-When I took [CS 61C][cs61c] at UC Berkeley in 2017, we were the first semester taught
-using RISC-V, and our reference card scans from our [RISC-V textbook][patterson-hennessy]
-were low-quality. I wanted a card I didn't have to squint at, so I typeset it in LaTeX.
-
-This little reference has grown well past a double-sided page, but if you still want
-the original you can print the first and last pages for the asm opcodes and calling convention.
-
 ## Contributing
 
 This repository is not actively developed, but pull requests are accepted for
